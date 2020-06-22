@@ -1,5 +1,7 @@
-# The following redirect is intended for use with most SPA's that handles routing internally.
+[build]
+  base = "."
+  command = "yarn install && yarn build"
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "./index.html"
   status = 200
