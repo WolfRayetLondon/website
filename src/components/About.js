@@ -34,12 +34,14 @@ class About extends Component {
             <p>
               We accept refunds if you change your mind or want to exchange for
               a different size/style. Refunds are available on items that have
-              been bought without any customisations. Please email
-              wolfrayetlondon@gmail.com to notify us of the refund, and your
-              item must be sent back within 14 days. Please make sure you put a
-              note in your parcel stating your name, order number and reason for
-              return. Buyer pays postage and is responsible for the item until
-              it is returned.
+              been bought without any customisations. Please email{" "}
+              <a href="mailto:wolfrayetlondon@gmail.com">
+                wolfrayetlondon@gmail.com
+              </a>{" "}
+              to notify us of the refund, and your item must be sent back within
+              14 days. Please make sure you put a note in your parcel stating
+              your name, order number and reason for return. Buyer pays postage
+              and is responsible for the item until it is returned.
             </p>
             <p>
               (We understand postage times vary from country to country, so just
